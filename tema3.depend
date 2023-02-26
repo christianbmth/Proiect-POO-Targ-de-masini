@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1674002781 source:c:\tema3\main.cpp
+	<iostream>
+	<cstring>
+	<vector>
+	"meniu.h"
+	"masini.h"
+
+1674010132 c:\tema3\masini.h
+	<cstring>
+	<vector>
+
+1676614760 c:\tema3\meniu.h
+	"masini.h"
+	"expozitie.h"
+	<cstring>
+	<vector>
+
+1674007625 c:\tema3\expozitie.h
+	"masini.h"
+
